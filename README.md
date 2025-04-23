@@ -1,2 +1,8 @@
-# My-first-Repo
-My first GitHub project - simple Python practice
+# My First GitHub Project 👨‍💻
+
+This is my first public repository on GitHub!
+
+### What’s inside:
+- A simple Python program
+- Practice using GitHub
+- Getting ready for big ML projects 🚀
