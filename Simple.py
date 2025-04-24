@@ -1,4 +1,2 @@
-# hello.py
-print("Hello GitHub! I am Shihab, future ML engineer 🚀")
+print("Hello GitHub! I am Shihab, Future ML engineer 🚀")
 print("This is an update from My PC ")
-print("Another Update just for Testing")
